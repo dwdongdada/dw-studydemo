@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/based-code.iml" filepath="$PROJECT_DIR$/based-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.sucloud.Demo01/com.sucloud.Demo01.iml" filepath="$PROJECT_DIR$/com.sucloud.Demo01/com.sucloud.Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.sucloud.Demo02/com.sucloud.Demo02.iml" filepath="$PROJECT_DIR$/com.sucloud.Demo02/com.sucloud.Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.sucloud.liuchengDay02/com.sucloud.liuchengDay02.iml" filepath="$PROJECT_DIR$/com.sucloud.liuchengDay02/com.sucloud.liuchengDay02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/couldday2/couldday2.iml" filepath="$PROJECT_DIR$/couldday2/couldday2.iml" />
+    </modules>
+  </component>
+</project>
